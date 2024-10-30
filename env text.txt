@@ -1,0 +1,8 @@
+API_ID=
+API_HASH=
+BOT_TOKEN=
+CHAT_IDS=
+CUSTOM_WORDLIST_FILEPATH=wordlist.txt
+RANDOM_WORDLIST_FILEPATH=random_words.txt
+CHANNEL_ID=
+BASE_NAME=TheSmartprogrammer  # Add base_name here for premium buyers only , who want their brandname remain in the username instead of changing the whole username 
